@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Abdo Restaurant</string>
+    <string name="title">Abdo Restaurant</string>
+    <string name="phone">+2 01003669887</string>
+    <string name="address">EGYPT - Menofia - Menouf</string>
+    <string name="welcome">Welcome to our restaurant</string>
+</resources>
