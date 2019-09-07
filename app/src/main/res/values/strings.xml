@@ -4,4 +4,6 @@
     <string name="phone">+2 01003669887</string>
     <string name="address">EGYPT - Menofia - Menouf</string>
     <string name="welcome">Welcome to our restaurant</string>
+    <string name="descript">Business which prepares and serves food and drinks to customers</string>
+    <string name="hours">8 am : 11 pm</string>
 </resources>
